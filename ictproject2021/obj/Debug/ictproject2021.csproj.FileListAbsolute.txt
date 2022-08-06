@@ -1,0 +1,68 @@
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe.config
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.pdb
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csprojResolveAssemblyReference.cache
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Form1.resources
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Properties.Resources.resources
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.GenerateResource.Cache
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.exe
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.pdb
+C:\Users\aidan\Desktop\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.autorizaion.resources
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe.config
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.pdb
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csprojAssemblyReference.cache
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.autorizaion.resources
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Form1.resources
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Properties.Resources.resources
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.GenerateResource.cache
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.CoreCompileInputs.cache
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.exe
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.pdb
+C:\Users\НР\Downloads\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.registr.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csprojAssemblyReference.cache
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.aboutp.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.autorizaion.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Form1.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Properties.Resources.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.registr.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.web_brouser.resources
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.GenerateResource.cache
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.CoreCompileInputs.cache
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.exe
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.pdb
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe.config
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe
+C:\Users\НР\Desktop\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.pdb
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe.config
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.pdb
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csprojAssemblyReference.cache
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.aboutp.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.autorizaion.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Form1.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Properties.Resources.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.registr.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.web_brouser.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.GenerateResource.cache
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.CoreCompileInputs.cache
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.exe
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.pdb
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.redakt.resources
+C:\Users\НР\source\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.poisk.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe.config
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.exe
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\bin\Debug\ictproject2021.pdb
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.AssemblyReference.cache
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.aboutp.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.autorizaion.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Form1.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.poisk.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.Properties.Resources.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.redakt.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.registr.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.web_brouser.resources
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.GenerateResource.cache
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.csproj.CoreCompileInputs.cache
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.exe
+C:\Users\peces\Downloads\repos\проект ивт 2021-20210418T160213Z-001\проект ивт 2021\ictproject2021\ictproject2021\obj\Debug\ictproject2021.pdb
